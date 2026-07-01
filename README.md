@@ -126,7 +126,7 @@ and endpoint security capabilities, including:
 Documentation
 
 Complete implementation guide:
-📄 Modern Workplace Lab – Phase 1 Documentation (PDF)
+📄 Modern Workplace Project Phase1.pdf
 
 # Author
 Hanan Tailooni
