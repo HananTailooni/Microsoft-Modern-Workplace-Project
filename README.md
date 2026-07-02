@@ -56,36 +56,36 @@ Authentication:
 
 Implemented Features
 
-✅ Hybrid Identity Deployment
-✅ Microsoft Entra Joined Devices
-✅ Windows Autopilot Deployment
-✅ Microsoft Intune Enrollment
-✅ Win32 Application Deployment
-✅ Windows Hello for Business Policy
-✅ Passkey Authentication
-✅ Microsoft Authenticator Passwordless Sign-in
-✅ Azure Bastion Testing
-✅ Device Compliance
-✅ Enterprise Configuration Profiles
+- [x]Hybrid Identity Deployment
+- [x]Microsoft Entra Joined Devices
+- [x]Windows Autopilot Deployment
+- [x]Microsoft Intune Enrollment
+- [x]Win32 Application Deployment
+- [x]Windows Hello for Business Policy
+- [x]Passkey Authentication
+- [x]Microsoft Authenticator Passwordless Sign-in
+- [x]Azure Bastion Testing
+- [x]Device Compliance
+- [x]Enterprise Configuration Profiles
 
 # Security & Zero Trust
 Implemented Zero Trust principles through:
 
-1- Passwordless authentication
-2- Phishing-resistant MFA
-3- Enterprise policy enforcement
-4- Identity-first security model
+- [x]Passwordless authentication
+- [x]Phishing-resistant MFA
+- [x]Enterprise policy enforcement
+- [x]Identity-first security model
 
 # Challenges & Troubleshooting
 
 Some notable challenges encountered during the project:
 
-1- Azure VM hostname not updating in Microsoft Entra ID due to DNS suffix configuration.
-2- Windows Hello for Business provisioning limitations over RDP.
-3- Azure Bastion authentication behavior compared to native RDP.
-4- Windows Autopilot enrollment resulting in administrative lockout during testing.
-5- Passkey registration and Microsoft Authenticator passwordless configuration.
-6- Device registration and Microsoft Intune policy synchronization.
+- [x]Azure VM hostname not updating in Microsoft Entra ID due to DNS suffix configuration.
+- [x]Windows Hello for Business provisioning limitations over RDP.
+- [x]Azure Bastion authentication behavior compared to native RDP.
+- [x]Windows Autopilot enrollment resulting in administrative lockout during testing.
+- [x]Passkey registration and Microsoft Authenticator passwordless configuration.
+- [x]Device registration and Microsoft Intune policy synchronization.
 
 # Lessons Learned
 
@@ -93,35 +93,35 @@ Throughout this project I learned that successful enterprise deployments depend 
 
 Some of the biggest lessons included:
 
-1- Identity is the foundation of the Modern Workplace.
-2- Microsoft Intune relies heavily on Microsoft Entra ID.
-3- Passwordless authentication significantly improves security.
-4- Azure networking and DNS directly influence authentication.
-5- Zero Trust is an architecture, not a single feature.
+- [x]Identity is the foundation of the Modern Workplace.
+- [x]Microsoft Intune relies heavily on Microsoft Entra ID.
+- [x]Passwordless authentication significantly improves security.
+- [x]Azure networking and DNS directly influence authentication.
+- [x]Zero Trust is an architecture, not a single feature.
 
 # Phase 1 Deliverables
 
-1- Microsoft Intune
-2- Azure Infrastructure
-3- Windows Autopilot
-4- Microsoft Entra Joined Devices
-5- Passwordless Authentication
-6- Passkeys
+- [x]Microsoft Intune
+- [x]Azure Infrastructure
+- [x]Windows Autopilot
+- [x]Microsoft Entra Joined Devices
+- [x]Passwordless Authentication
+- [x]Passkeys
 
 # Roadmap - Phase 2
 The next phase of this project will expand the environment by implementing additional enterprise identity
 and endpoint security capabilities, including:
 
-• Microsoft Graph PowerShell automation
-• Advanced Conditional Access policies
-• Identity Protection and risk-based policies
-• Lifecycle Workflows
-• Access Reviews
-• Entitlement Management
-• Microsoft Defender for Endpoint integration
-• Endpoint Analytics
-• Intune Security Baselines
-• Device Remediation Scripts
+- [x]Microsoft Graph PowerShell automation
+- [x]Advanced Conditional Access policies
+- [x]Identity Protection and risk-based policies
+- [x]Lifecycle Workflows
+- [x]Access Reviews
+- [x]Entitlement Management
+- [x]Microsoft Defender for Endpoint integration
+- [x]Endpoint Analytics
+- [x]Intune Security Baselines
+- [x]Device Remediation Scripts
 
 Documentation
 
