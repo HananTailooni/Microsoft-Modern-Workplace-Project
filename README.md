@@ -31,28 +31,28 @@ Objectives
 
 # Lab Environment
 Identity: 
-1- Microsoft Entra ID
-2- Active Directory Domain Services
-3- Microsoft Entra Connect
-4- Microsoft Cloud Sync
+- [x]Microsoft Entra ID
+- [x]Active Directory Domain Services
+- [x]Microsoft Entra Connect
+- [x]Microsoft Cloud Sync
 
 Device Management:
-1- Microsoft Intune
-2- Configuration Profiles
-3- Win32 Applications
-4- Device Enrollment
-5- Compliance Policies
+- [x]Microsoft Intune
+- [x]Configuration Profiles
+- [x]Win32 Applications
+- [x]Device Enrollment
+- [x]Compliance Policies
 
 Azure:
-1- Azure Virtual Machines
-2- Azure Networking
-3- Azure Bastion
-4- Public DNS
+- [x]Azure Virtual Machines
+- [x]Azure Networking
+- [x]Azure Bastion
+- [x]Public DNS
 
 Authentication:
-1- Phishing resistant MFA
-2- Passkeys
-3- Passwordless Authentication         
+- [x]Phishing resistant MFA
+- [x]Passkeys
+- [x]Passwordless Authentication         
 
 Implemented Features
 
