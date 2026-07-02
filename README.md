@@ -10,6 +10,11 @@ The lab focuses on Microsoft's Zero Trust identity model, secure device manageme
 Objectives
 
 # This project demonstrates practical implementation of:
+![Microsoft Entra](https://img.shields.io/badge/Microsoft-Entra_ID-0078D4)
+![Intune](https://img.shields.io/badge/Microsoft-Intune-0078D4)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0089D6)
+![Windows Autopilot](https://img.shields.io/badge/Windows-Autopilot-00A4EF)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE)
 
 # Solution Archeticture 
                              Microsoft Entra ID
