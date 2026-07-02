@@ -15,6 +15,13 @@ Objectives
 ![Windows Autopilot](https://img.shields.io/badge/Windows-Autopilot-00A4EF)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE)
 
+| Category | Technologies |
+|----------|--------------|
+| Identity | Microsoft Entra ID, Active Directory, Entra Connect, Cloud Sync |
+| Device Management | Intune, Win32 Apps, Configuration Profiles, Compliance Policies |
+| Azure | Azure VMs, Azure Networking, Azure Bastion, Public DNS |
+| Authentication | Passkeys, Passwordless Authentication, Phishing-resistant MFA |
+
 # Solution Archeticture 
                              Microsoft Entra ID
                                       │
