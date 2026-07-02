@@ -130,7 +130,7 @@ and endpoint security capabilities, including:
 #Documentation
 
 Complete implementation guide:
-📄[Modern Workplace Project Phase1.pdf] Modern%20Workplace%20Project%20Phase1.pdf 
+📄[Modern Workplace Project Phase1.pdf](Modern%20Workplace%20Project%20Phase1.pdf)
 
 # Author
 Hanan Tailooni
