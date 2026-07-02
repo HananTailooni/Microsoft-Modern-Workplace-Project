@@ -9,7 +9,6 @@ The objective was to gain practical, hands-on experience by designing, deploying
 The lab focuses on Microsoft's Zero Trust identity model, secure device management, cloud-native authentication, and enterprise provisioning.
 Objectives
 
-# This project demonstrates practical implementation of:
 ![Microsoft Entra](https://img.shields.io/badge/Microsoft-Entra_ID-0078D4)
 ![Intune](https://img.shields.io/badge/Microsoft-Intune-0078D4)
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0089D6)
